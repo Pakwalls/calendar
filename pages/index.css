@@ -1,0 +1,40 @@
+@import url(../vendors/normalize.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__date-container/header__date-container.css);
+@import url(../blocks/header/__date-title/header__date-title.css);
+@import url(../blocks/header/__date/header__date.css);
+@import url(../blocks/header/__time-container/header__time-container.css);
+@import url(../blocks/header/__time-title/header__time-title.css);
+@import url(../blocks/header/__time/header__time.css);
+
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/schedule/schedule.css);
+@import url(../blocks/schedule/__articles/schedule__articles.css);
+@import url(../blocks/schedule/__article/schedule__article.css);
+
+@import url(../blocks/article/article.css);
+@import url(../blocks/article/__battery/article__battery.css);
+@import url(../blocks/article/__battery/_charge/article__battery_charge_full.css);
+@import url(../blocks/article/__battery/_charge/article__battery_charge_half.css);
+@import url(../blocks/article/__battery/_charge/article__battery_charge_low.css);
+@import url(../blocks/article/__date-container/article__date-container.css);
+@import url(../blocks/article/__date/article__date.css);
+@import url(../blocks/article/__day/article__day.css);
+@import url(../blocks/article/__details/article__details.css);
+@import url(../blocks/article/__gym-container/article__gym-container.css);
+@import url(../blocks/article/__gym-hall/article__gym-hall.css);
+@import url(../blocks/article/__gym-name/article__gym-name.css);
+@import url(../blocks/article/__indicators/article__indicators.css);
+@import url(../blocks/article/__indicator/article__indicator.css);
+@import url(../blocks/article/__photo/article__photo.css);
+@import url(../blocks/article/__training-time/article__training-time.css);
+@import url(../blocks/article/__workout-container/article__workout-container.css);
+@import url(../blocks/article/__workouts/article__workouts.css);
+@import url(../blocks/article/__workout/article__workout.css);
+@import url(../blocks/article/__base/article__base.css);
+@import url(../blocks/article/__training-name/article__training-name.css);
+@import url(../blocks/article/__trainer-name/article__trainer-name.css);

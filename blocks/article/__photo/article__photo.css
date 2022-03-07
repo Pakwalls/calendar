@@ -1,0 +1,5 @@
+.article__photo {
+  max-height: 80px;
+  object-fit: cover;
+  margin-top: 10px;
+}

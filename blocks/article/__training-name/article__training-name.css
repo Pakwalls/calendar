@@ -1,0 +1,14 @@
+.article__training-name {
+  text-align: end;
+  font-size: 22px;
+  font-weight: 700;
+  color: #d44a1d;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 450px) {
+  .article__training-name {
+    font-size: 20px;
+  }
+}
